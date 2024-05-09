@@ -29,3 +29,15 @@ _asset_bundler_cache
 _site
 
 *.bat
+
+# Remove the Unnecessary
+.editorconfig
+.gitattributes
+.github
+/docs
+/test
+CHANGELOG.md
+minimal-mistakes-jekyll.gemspec
+README.md
+screenshot-layouts.png
+screenshot.png
