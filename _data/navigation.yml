@@ -4,14 +4,10 @@ main:
     url: /categories/
   - title : "Tags"
     url: /tags/
+  - title : "Engine"
+    url: /Engine/
   - title: "Search"
     url: /search/
-    
-docs:
-  - title: "Category"
-    children:
-      - title: "Category"
-        url: /categories/
 
 counts:
   - title: "Category"
@@ -19,6 +15,11 @@ counts:
   - title: "Tag"
     use: false
 
+docs:
+  - title: "Category"
+    children:
+      - title: "Category"
+        url: /categories/
 
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
