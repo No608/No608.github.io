@@ -1,0 +1,12 @@
+# Blog Title
+title: my homepage
+
+# Blog Desc
+description: Desc
+
+# url
+url: "https://No608.github.io"
+
+# etc
+markdown: kramdown
+theme: null
