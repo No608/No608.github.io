@@ -8,5 +8,6 @@ description: Desc
 url: "https://No608.github.io"
 
 # etc
+baseurl:
 markdown: kramdown
 theme: null
